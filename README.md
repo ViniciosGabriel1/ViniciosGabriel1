@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vinícios Oliveira</title>
-</head>
-<body style="font-family: Arial, sans-serif; text-align: center;">
 
     <h1>Olá, Eu sou Vinícios! 👋</h1>
 
@@ -56,5 +48,3 @@
 
     <p>Sinta-se à vontade para entrar em contato! 😊</p>
 
-</body>
-</html>
