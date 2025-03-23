@@ -37,9 +37,8 @@ Salve! Meu nome é Vinícios Gabriel, sou um dev que curte transformar café em 
 
 ## Onde me encontrar 🌐
 
-- 📧 **Email**: seuemail@example.com
-- 💼 **LinkedIn**: [Vinícios Gabriel](https://www.linkedin.com/in/vin%C3%ADciosgabriel-dev12/)
-- 📸 **Instagram**: [@vinicios_com_o_](https://www.instagram.com/vinicios_com_o_/)
+- 📧 **Email**: vinicios.g.oliveira0012@gmail.com
+- 💼 **LinkedIn**: [Vinícios Gabriel](https://www.linkedin.com/in/vini-dev12/)
 
 ---
 
