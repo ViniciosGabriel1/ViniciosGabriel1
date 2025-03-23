@@ -45,8 +45,6 @@ Salve! Meu nome é Vinícios Gabriel, sou um dev que curte transformar café em 
 ## Algumas conquistas 🏆
 
 - ![Contributions](https://img.shields.io/badge/Contributions-100+-brightgreen) - Já contribuí bastante no GitHub.
-- ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Reputation-000?style=for-the-badge&logo=stack-overflow&logoColor=orange) - Tô sempre por lá tentando ajudar ou aprender algo novo.
-
 ---
 
 **Valeu por passar aqui!** Se quiser trocar uma ideia, colaborar em algo ou só falar sobre jogos e séries, é só me chamar! 😊
