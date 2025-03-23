@@ -16,7 +16,10 @@
 
   <img align = "center" alt = "PHP"   src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<img align="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-3-green?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img align="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-3-green?style=for-the-badge&logo=vue.js&logoColor=white"/>
+
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-9.x-red?style=for-the-badge&logo=laravel&logoColor=white"/>
+
 
   <img align = "center" alt = "MYSQL"   src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></br>
 
